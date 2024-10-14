@@ -1,0 +1,9 @@
+.card-bg {
+    background-color: rgb(25, 41, 51) !important;
+    transition: background-color 0.8s ease-in-out; 
+}
+
+.card-bg:hover {
+    background-color: #00111c !important;
+    
+}
